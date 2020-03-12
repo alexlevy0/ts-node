@@ -64,7 +64,7 @@
     "diff": "^3.1.0",
     "make-error": "^1.1.1",
     "minimist": "^1.2.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "pinkie": "^2.0.4",
     "source-map-support": "^0.4.0",
     "tsconfig": "^5.0.2",
